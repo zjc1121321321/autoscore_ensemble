@@ -1,0 +1,37 @@
+citHeader("To cite AutoScore in publications use:")
+
+bibentry(
+  bibtype    = "Manual",
+  title    = "{AutoScore}: An Interpretable Machine Learning-Based Automatic Clinical Score Generator",
+  author   = c(
+    person("Feng", "Xie"),
+    person("Yilin", "Ning"),
+    person("Han", "Yuan"),
+    person("Mingxuan", "Liu"),
+    person("Seyed Ehsan", "Saffari"),
+    person("Bibhas", "Chakraborty"),
+    person("Nan", "Liu")
+  ),
+  year     = 2022,
+  url      = "https://CRAN.R-project.org/package=AutoScore",
+  textVersion  = "Xie F, Ning Y, Yuan H, Liu M, Saffari SE, Chakraborty B, Liu N. Package 'AutoScore': An Interpretable Machine Learning-Based Automatic Clinical Score Generator. R package version, 2022. Available from: cran.r-project.org/web/packages/AutoScore/AutoScore.pdf"
+)
+
+
+bibentry(
+  bibtype = "Article",
+  title        = "AutoScore: A Machine Learning-Based Automatic Clinical Score Generator and Its Application to Mortality Prediction Using Electronic Health Records",
+  author       = c(
+    person("Feng", "Xie"),
+    person("Bibhas", "Chakraborty"),
+    person("Marcus Eng Hock", "Ong"),
+    person("Benjamin Alan", "Goldstein"),
+    person("Nan", "Liu")
+  ),
+  journal      = "JMIR Medical Informatics",
+  year         = "2020",
+  volume       = "8",
+  number       = "10",
+  pages        = "e21798",
+  url          = "https://doi.org/10.2196/21798",
+  textVersion  = "Xie F, Chakraborty B, Ong MEH, Goldstein BA, Liu N. AutoScore: A Machine Learning-Based Automatic Clinical Score Generator and Its Application to Mortality Prediction Using Electronic Health Records. JMIR Med Inform. 2020;8(10):e21798. Published 2020 Oct 21. doi:10.2196/21798")
